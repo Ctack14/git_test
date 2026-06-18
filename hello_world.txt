@@ -1,1 +1,2 @@
 Goodbye world :(
+Now lets test some config settings!
